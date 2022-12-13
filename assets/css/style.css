@@ -552,7 +552,7 @@ section {
 
 .portfolio #portfolio-flters {
   padding: 0;
-  margin: 0 auto 35px auto;
+  margin: 0 auto 20px auto;
   list-style: none;
   text-align: center;
   background: #fff;
@@ -604,6 +604,14 @@ section {
   opacity: 0;
 }
 
+.portfolio .portfolio-wrap  .card{
+
+
+ }
+
+.portfolio .portfolio-wrap  .card img{
+
+}
 
 
 
