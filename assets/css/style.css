@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: greenyellow;
+  color: black;
   text-decoration: none;
 }
 
@@ -374,7 +374,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.6);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -388,7 +388,7 @@ h6 {
 
 #hero h1 {
   margin: 0 0 10px 0;
-  font-size: 48px;
+  font-size: 35px;
   font-weight: 700;
   line-height: 56px;
   color: #fff;
@@ -396,8 +396,8 @@ h6 {
 
 #hero h2 {
   color: rgba(255, 255, 255, 0.7);
-  margin-bottom: 35px;
-  font-size: 24px;
+  margin-bottom: 25px;
+  font-size: 18px;
 }
 
 @media (min-width: 1024px) {
