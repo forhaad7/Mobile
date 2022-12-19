@@ -528,22 +528,20 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 
-.portfolio .bandname ul li{
-  display: block;
-}
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
 
 .portfolio #portfolio-flters {
   padding: 0;
-  margin: 0 auto 20px auto;
+  margin: 0 5px 30px auto;
   list-style: none;
-  text-align: center;
+  text-align: left;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   border-radius: 5px;
   padding: 8px 10px;
+  display: block;
 }
 
 .portfolio #portfolio-flters li {
@@ -557,6 +555,7 @@ section {
   color: green;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
+  display: block;
 }
 
 .portfolio #portfolio-flters li:hover,
